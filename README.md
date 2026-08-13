@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+
 
 # Ali Naserddine
 **Mechanical Engineer | Robotics & Autonomous Systems | Digital Twin Simulation**
