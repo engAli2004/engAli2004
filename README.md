@@ -13,7 +13,7 @@
 **Saint Joseph University of Beirut** | B.Eng. Mechanical Engineering (Expected 2027) | GPA: 3.2/4.0  
 **Location:** Beirut, Lebanon | **Open to:** Remote internships worldwide
 
-[Curriculum Vitae](mailto:eng.naserddine2004@gmail.com) · [Email](mailto:eng.naserddine2004@gmail.com) · [LinkedIn](https://linkedin.com/in/ali-naserddine)
+  [Email](mailto:eng.naserddine2004@gmail.com) · [LinkedIn](https://linkedin.com/in/ali-naserddine)
 
 
 
