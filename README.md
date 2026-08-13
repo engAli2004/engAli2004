@@ -121,13 +121,7 @@ A standalone Python script that actuates a joint is a demonstration. A ROS 2 pac
 
 ---
 
-## GitHub Activity
 
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engAli2004&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true)](https://github.com/engAli2004)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engAli2004&layout=compact&theme=default&hide_border=true&hide_title=true)](https://github.com/engAli2004)
 
 
 ---
