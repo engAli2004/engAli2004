@@ -10,7 +10,7 @@
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-Mechanical_Design-DA291C?logo=dassaultsystemes&logoColor=white)](https://solidworks.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Saint Joseph University of Beirut** | B.Eng. Mechanical Engineering (Expected 2027) | GPA: 3.2/4.0  
+**Saint Joseph University of Beirut** | B.Eng. Mechanical Engineering (Expected 2027)  
 **Location:** Beirut, Lebanon | **Open to:** Remote internships worldwide
 
   [Email](mailto:eng.naserddine2004@gmail.com) · [LinkedIn](https://linkedin.com/in/ali-naserddine)
