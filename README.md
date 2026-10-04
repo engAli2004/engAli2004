@@ -99,7 +99,6 @@ Led mechanical design of a 6-member differential-drive AGV project. Responsible 
 ## Education & Certifications
 
 **B.Eng. Mechanical Engineering** | Saint Joseph University of Beirut (USJ) | Expected 2027
-- GPA: 3.2/4.0
 - Relevant Coursework: Linear Control Systems, Mechatronics, Embedded C, Systems Analysis, Robotics
 
 **Certifications**
